@@ -1,5 +1,5 @@
 /* 
-modularização do processamento de dados do programa, calculos aritméticos de soma das contas a pagar, 
+modularização do processamento de dados do programa, cálculos aritméticos de soma das contas a pagar, 
 diferença entre valor disponível pra pagamento - valor total a ser pago e 
 ordenação por data mais próxima do vencimento
 */

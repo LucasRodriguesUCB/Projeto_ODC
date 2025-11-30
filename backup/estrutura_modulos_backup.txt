@@ -6,7 +6,7 @@ O projeto ODC é dividio logicamente em:
 - Processamento desses dados 
 - Exibição final dos dados 
 
-Para cada uam dessas etapas, foi cirado os seguintes arquivos: 
+Para cada uma dessas etapas, foi criado os seguintes arquivos: 
 
 1. 	Módulo: Main
 Arquivo: [main.c]

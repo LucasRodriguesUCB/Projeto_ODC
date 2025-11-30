@@ -7,7 +7,7 @@ exibição final dos resultados para o usuário
 #include "exibicao.h"
 #include "structs.h"
 
-/* apresentacao do programa e sua funcionalidade */
+/* apresentação do programa e sua funcionalidade */
 void mostrarCabecalho() {
     puts("");
     printf("======================= ORGANIZADOR DE CONTAS (ODC) =========================\n");
